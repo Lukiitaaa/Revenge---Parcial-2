@@ -1,0 +1,202 @@
+# depslib dependency file v1.0
+1637186469 source:c:\users\hacke\desktop\uni\labo\tp parcial\revenge\main.cpp
+	"rlutil.h"
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	"funciones_revenge.h"
+	<ctime>
+
+1594089991 c:\users\hacke\desktop\uni\labo\tp parcial\revenge\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1637186411 c:\users\hacke\desktop\uni\labo\tp parcial\revenge\funciones_revenge.h
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	"rlutil.h"
+	<ctime>
+
+1637186469 source:c:\users\tomas\desktop\revenge\main.cpp
+	"rlutil.h"
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	"funciones_revenge.h"
+	<ctime>
+
+1594089991 c:\users\tomas\desktop\revenge\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1637192037 c:\users\tomas\desktop\revenge\funciones_revenge.h
+
+1637192114 source:c:\users\tomas\desktop\revenge\funciones.cpp
+	"rlutil.h"
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	"funciones_revenge.h"
+	<ctime>
+
+1637186469 source:c:\users\tomas\desktop\revenge 1\main.cpp
+	"rlutil.h"
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	"funciones_revenge.h"
+	<ctime>
+
+1594089991 c:\users\tomas\desktop\revenge 1\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1637192037 c:\users\tomas\desktop\revenge 1\funciones_revenge.h
+
+1637196087 source:c:\users\tomas\desktop\revenge 1\funciones.cpp
+	"rlutil.h"
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	"funciones_revenge.h"
+	<ctime>
+
+1637196087 source:c:\users\hacke\desktop\revenge cormac\revenge 3.0\funciones.cpp
+	"rlutil.h"
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	"funciones_revenge.h"
+	<ctime>
+
+1594089991 c:\users\hacke\desktop\revenge cormac\revenge 3.0\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1637192037 c:\users\hacke\desktop\revenge cormac\revenge 3.0\funciones_revenge.h
+
+1637186469 source:c:\users\hacke\desktop\revenge cormac\revenge 3.0\main.cpp
+	"rlutil.h"
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	"funciones_revenge.h"
+	<ctime>
+
+1647314488 source:c:\users\hacke\desktop\uni\revenge cormac\revenge 3.0\main.cpp
+	"rlutil.h"
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	"funciones_revenge.h"
+	<ctime>
+
+1594089991 c:\users\hacke\desktop\uni\revenge cormac\revenge 3.0\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1637192037 c:\users\hacke\desktop\uni\revenge cormac\revenge 3.0\funciones_revenge.h
+
+1637202763 source:c:\users\hacke\desktop\uni\revenge cormac\revenge 3.0\funciones.cpp
+	"rlutil.h"
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	"funciones_revenge.h"
+	<ctime>
+
+1647314597 source:c:\users\hacke\desktop\revenge 3.0\funciones.cpp
+	"rlutil.h"
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	"funciones_revenge.h"
+	<ctime>
+
+1594089991 c:\users\hacke\desktop\revenge 3.0\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1637192037 c:\users\hacke\desktop\revenge 3.0\funciones_revenge.h
+
+1647314488 source:c:\users\hacke\desktop\revenge 3.0\main.cpp
+	"rlutil.h"
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	"funciones_revenge.h"
+	<ctime>
+
